@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Hey there!
-I’m Shubham, a data analyst based in [your location].
+I’m Shubham, a data analyst based in Pune.
 
 I dive deep into data to uncover insights and turn numbers into stories.
 
